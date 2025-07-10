@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-	title: '[Your Name] - Mobile Developer',
+	title: '[Sonu Shourya] - Mobile Developer',
 	description:
 		'Welcome to my portfolio! I am a passionate mobile developer crafting beautiful and performant apps for iOS and Android. Specializing in native and cross-platform development, I create engaging mobile experiences that users love.',
 	keywords: [
@@ -31,21 +31,21 @@ export const metadata: Metadata = {
 		'App Store',
 		'Play Store',
 		'Mobile Architecture',
-		'[Your Name]',
+		'Sonu Shourya',
 	],
-	authors: [{ name: '[Your Name]' }],
-	creator: '[Your Name]',
+	authors: [{ name: '[Sonu Shourya]' }],
+	creator: '[Sonu Shourya]',
 	openGraph: {
-		title: '[Your Name] - Mobile Developer Portfolio',
+		title: 'Sonu Shourya Mobile Developer Portfolio',
 		description: 'Passionate mobile developer creating exceptional iOS and Android applications. Explore my projects and app development expertise.',
 		url: 'https://your-domain.com',
-		siteName: '[Your Name] - Portfolio',
+		siteName: '[Sonu Shourya] - Portfolio',
 		images: [
 			{
 				url: '/og-image.jpg',
 				width: 1200,
 				height: 630,
-				alt: '[Your Name] - Mobile Developer Portfolio',
+				alt: '[Sonu Shourya] - Mobile Developer Portfolio',
 			},
 		],
 		locale: 'en_US',
@@ -53,7 +53,7 @@ export const metadata: Metadata = {
 	},
 	twitter: {
 		card: 'summary_large_image',
-		title: '[Your Name] - Mobile Developer',
+		title: '[Sonu Shourya] - Mobile Developer',
 		description: 'Passionate mobile developer creating exceptional iOS and Android applications. Explore my projects and app development expertise.',
 		creator: '@yourusername',
 		images: ['/og-image.jpg'],
