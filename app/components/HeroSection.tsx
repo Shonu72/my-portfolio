@@ -26,7 +26,7 @@ const HeroSection = () => {
 				</div>
 
 				{/* App Store Stats */}
-				<div className="max-w-3xl mx-auto grid grid-cols-2 md:grid-cols-4 gap-3 sm:gap-4 mb-12 px-2">
+				<div className="max-w-3xl mx-auto grid grid-cols-2 md:grid-cols3 gap-3 sm:gap-4 mb-12 px-2">
 					{[
 						{
 							label: 'Apps Published',
