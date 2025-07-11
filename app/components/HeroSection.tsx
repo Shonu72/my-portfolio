@@ -18,7 +18,7 @@ const HeroSection = () => {
 						</span>
 					</h1>
 					<h2 className="text-2xl sm:text-3xl md:text-4xl font-semibold mb-6 bg-clip-text text-transparent bg-gradient-to-r from-gray-100 to-gray-300">
-						Flutter & Full Stack Mobile Developer
+						Flutter & Full Stack Mobile App Developer
 					</h2>
 					<p className="text-base sm:text-lg md:text-xl text-gray-400 max-w-2xl mx-auto leading-relaxed px-4">
 						I build scalable cross-platform apps using <span className="text-blue-400">Flutter</span>, integrate backend with <span className="text-green-400">Node.js</span>, and deploy globally using <span className="text-yellow-400">Firebase & AWS</span>.
@@ -26,7 +26,7 @@ const HeroSection = () => {
 				</div>
 
 				{/* App Store Stats */}
-				<div className="max-w-3xl mx-auto grid grid-cols-2 md:grid-cols3 gap-3 sm:gap-4 mb-12 px-2">
+				<div className="max-w-2xl mx-auto grid grid-cols-3 gap-4 sm:gap-6 mb-12 px-2">
 					{[
 						{
 							label: 'Apps Published',
@@ -54,7 +54,7 @@ const HeroSection = () => {
 									<path d="M12,17.27L18.18,21L16.54,13.97L22,9.24L14.81,8.62L12,2L9.19,8.62L2,9.24L7.45,13.97L5.82,21L12,17.27Z" />
 								</svg>
 							),
-						}
+						},
 					].map((stat, index) => (
 						<div
 							key={index}
