@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-	title: 'Sonu Shourya - Mobile Developer',
+	title: 'Sonu Shourya - FullStack App Developer',
 	description:
 		'Welcome to my portfolio! I am a passionate mobile developer crafting beautiful and performant apps for iOS and Android. Specializing in native and cross-platform development, I create engaging mobile experiences that users love.',
 	keywords: [
@@ -36,7 +36,7 @@ export const metadata: Metadata = {
 	authors: [{ name: 'Sonu Shourya' }],
 	creator: 'Sonu Shourya',
 	openGraph: {
-		title: 'Sonu Shourya Mobile Developer Portfolio',
+		title: 'Sonu Shourya - FullStack App Developer',
 		description: 'Passionate mobile developer creating exceptional iOS and Android applications. Explore my projects and app development expertise.',
 		url: 'https://your-domain.com',
 		siteName: 'Sonu Shourya - Portfolio',
@@ -45,7 +45,7 @@ export const metadata: Metadata = {
 				url: '/og-image.jpg',
 				width: 1200,
 				height: 630,
-				alt: 'Sonu Shourya - Mobile Developer Portfolio',
+				alt: 'Sonu Shourya -  FullStack App Developer',
 			},
 		],
 		locale: 'en_US',
@@ -53,7 +53,7 @@ export const metadata: Metadata = {
 	},
 	twitter: {
 		card: 'summary_large_image',
-		title: 'Sonu Shourya - Mobile Developer',
+		title: 'Sonu Shourya -  FullStack App Developer',
 		description: 'Passionate mobile developer creating exceptional iOS and Android applications. Explore my projects and app development expertise.',
 		creator: '@shonu72',
 		images: ['/og-image.jpg'],
